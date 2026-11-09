@@ -48,3 +48,6 @@ Only genuine Tranquilitas massage images are used to depict massage. The destina
 ## Independent Cloudflare Pages deployment
 
 Cloudflare Pages project: `belize` (`https://belize-c90.pages.dev/`). The `main` branch automatically deploys to this website's own Pages project. The public domain will be transferred after independent deployment and DNS verification; the original shared Grenada Pages project remains available until migration completes.
+
+## Published online booking prices — 2026-11-09
+USD 60/90 minutes: Swedish $100/$120; Deep Tissue $120/$135; Beach $130/$145; Couples $205/$265 (per couple). Each Book button links to the exact Tranquilitas Setmore treatment, not an enquiry-only form. Minimum six-hour advance scheduling should be enforced in Setmore.
